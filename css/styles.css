@@ -16,11 +16,15 @@ img {
   background-color: blueviolet;
   text-emphasis-color:aquamarine;
   border:solid pink;
+  font-family: cursive;
+  font-weight: bolder;
 }
+
 
 .card {
   background-color: pink;
   border: solid purple;
+  font-family: cursive;
 }
 
 body {
