@@ -1,5 +1,48 @@
 img {
-  width: 50%;
-  float:left;
-  
+  width:50%;
+  display:block;
+  margin-left:auto;
+  margin-right: auto;
+  border:solid purple;
+
+}
+
+.highlight {
+  color: aquamarine;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: blueviolet;
+  text-emphasis-color:aquamarine;
+  border:solid pink;
+}
+
+.card {
+  background-color: pink;
+  border: solid purple;
+}
+
+body {
+  background-color: powderblue;
+}
+
+.card h2 {
+  text-align: center;
+}
+
+.card h3 {
+  text-align: center;
+}
+
+.line {
+  color:blue
+}
+
+.line2 {
+  color:blueviolet
+}
+
+.line3 {
+  color:cadetblue
 }
